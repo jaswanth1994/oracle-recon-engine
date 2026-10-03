@@ -1,0 +1,11 @@
+# Logs and local scratch files
+*.log
+*.lst
+*.bak
+*.tmp
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
